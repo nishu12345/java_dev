@@ -1,5 +1,5 @@
 interface Interf{
-	void add(int a,int b);
+	 void add(int a,int b);
 	default void m1(){
 		System.out.println("Default Method");	
 	}
