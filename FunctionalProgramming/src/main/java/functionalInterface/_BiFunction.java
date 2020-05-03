@@ -2,8 +2,10 @@ package functionalInterface;
 
 import java.util.function.BiFunction;
 
+/**
+ * BiFunction<T,U,R> </> It is pre-defined functional interface that takes two arguments and return one value
+ */
 public class _BiFunction {
-
     public static void main(String[] args) {
         System.out.println(incrementByOneAndMultiply(5, 10));
         System.out.println(incrementByOneAndMultiply.apply(5, 10));

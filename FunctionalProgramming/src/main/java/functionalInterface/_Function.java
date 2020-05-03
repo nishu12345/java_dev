@@ -2,6 +2,9 @@ package functionalInterface;
 
 import java.util.function.Function;
 
+/**
+ * Function<T,R></> It is a pre-defined functional interface that takes one method and return a result.
+ */
 public class _Function {
 
     public static void main(String[] args) {
@@ -20,6 +23,6 @@ public class _Function {
 
     //declarative approach
     static Function<Integer, Integer> incrementByOne = n -> n + 1;
-    static Function<Integer,Integer> multiplyBy10 = n -> n*10;
+    static Function<Integer, Integer> multiplyBy10 = n -> n * 10;
     Function<Integer, Integer> decrementByOne = n -> n - 1;
 }
