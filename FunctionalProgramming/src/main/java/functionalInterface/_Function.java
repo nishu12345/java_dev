@@ -1,9 +1,10 @@
 package functionalInterface;
 
+import java.util.function.BiFunction;
 import java.util.function.Function;
 
 /**
- * Function<T,R></> It is a pre-defined functional interface that takes one method and return a result.
+ * Function<T,R> It is a pre-defined functional interface that takes one argument(T) and return a result of type R.
  */
 public class _Function {
 
@@ -14,6 +15,8 @@ public class _Function {
         System.out.println(multiplyBy10.apply(10));
 
         System.out.println(incrementByOne.andThen(multiplyBy10).apply(5));
+
+
     }
 
     //imperative approach
@@ -24,5 +27,6 @@ public class _Function {
     //declarative approach
     static Function<Integer, Integer> incrementByOne = n -> n + 1;
     static Function<Integer, Integer> multiplyBy10 = n -> n * 10;
-    Function<Integer, Integer> decrementByOne = n -> n - 1;
+    static Function<Integer, Integer> decrementByOne = n -> n - 1;
+
 }

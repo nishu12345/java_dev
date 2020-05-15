@@ -3,7 +3,7 @@ package functionalInterface;
 import java.util.function.BiFunction;
 
 /**
- * BiFunction<T,U,R> </> It is pre-defined functional interface that takes two arguments and return one value
+ * BiFunction<T,U,R>  It is pre-defined functional interface that takes two arguments(T,U) and return one value of type R
  */
 public class _BiFunction {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package functionalInterface;
 
 /**
- * Custom functional interface to take three arguments and return one value.
+ * Custom functional interface to take three arguments(A,B,C) and return one value of type D
  *
  * @param <A> -> First Argument
  * @param <B> -> Second Argument
