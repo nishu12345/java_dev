@@ -1,6 +1,6 @@
 package functionalInterface;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
+
 
 /**
  * BiConsumer<T,U> It takes two arguments and return nothing
