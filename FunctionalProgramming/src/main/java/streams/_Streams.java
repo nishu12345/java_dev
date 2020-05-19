@@ -1,6 +1,8 @@
 package streams;
 
 import java.util.List;
+import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 import static streams._Streams.Gender.*;
@@ -20,9 +22,24 @@ public class _Streams {
 
         people.stream().map(person -> person.name).mapToInt(name -> name.length()).forEach(System.out::println);
 
+
         people.stream().mapToInt(person -> person.name.length()).forEach(System.out::println);
 
-        people.stream().map(person -> person.gender.equals(FEMALE)).forEach(person -> System.out.println(person));
+
+        people.stream().map(person -> person.gender.equals(FEMALE)).forEach(System.out::println);
+
+        System.out.println("Length of name for females");
+        people.stream().filter(person -> person.gender.equals(FEMALE)).mapToInt(person -> person.name.length()).forEach(System.out::println);
+
+
+        boolean b = people.stream().anyMatch(person -> person.gender.equals(FEMALE));
+        System.out.println("Does the list contain any person with gender as female ? " + b);
+
+        b = people.stream().allMatch(person -> person.gender.equals(FEMALE));
+        System.out.println("Does the list contain all the person with gender as female ? " + b);
+
+        b = people.stream().noneMatch(person -> person.gender.equals("Hello"));
+        System.out.println("No gender in the list have gender as Hello ? " + b);
 
     }
 
