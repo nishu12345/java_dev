@@ -10,7 +10,6 @@ public class Main {
 
         String world = hello
                 .map(String::toUpperCase)
-//                .or(() -> Optional.of("World")).get();
                 .orElse("world");
         System.out.println(world);
 
