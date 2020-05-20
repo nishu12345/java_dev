@@ -12,11 +12,17 @@ public class _Consumer {
         Customer maria = new Customer("Maria", "9876543210");
         greetCustomer(maria);
         customerConsumer.accept(maria);
+
+        consumer1.andThen(consumer2).accept("Hello World");
     }
 
 
     static Consumer<Customer> customerConsumer = customer -> System.out.println("Hello " + customer.customerName +
             " thank you for registering phone number " + customer.customerPhoneNumber);
+
+    static Consumer<String> consumer1 = consumer -> System.out.println(consumer);
+    static Consumer<String> consumer2 = consumer -> System.out.println(consumer);
+
 
     static void greetCustomer(Customer customer) {
         System.out.println("Hello " + customer.customerName + " thank you for registering phone number " + customer.customerPhoneNumber);
