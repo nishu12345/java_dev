@@ -3,9 +3,8 @@ package combinatorpattern;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.function.Function;
-import java.util.function.Supplier;
 
-import static combinatorpattern.CustomerRegistrationValidator.*;
+import static combinatorpattern.CustomerRegistrationValidator.ValidationResult;
 import static combinatorpattern.CustomerRegistrationValidator.ValidationResult.*;
 
 public interface CustomerRegistrationValidator extends Function<Customer, ValidationResult> {
@@ -32,14 +31,12 @@ public interface CustomerRegistrationValidator extends Function<Customer, Valida
             return result.equals(SUCCESS) ? other.apply(customer) : result;
         };
     }
-
-
+    
     enum ValidationResult {
         SUCCESS,
         INVALID_EMAIL,
         INVALID_PHONE_NUMBER,
         NOT_AN_ADULT
     }
-
-
+    
 }
