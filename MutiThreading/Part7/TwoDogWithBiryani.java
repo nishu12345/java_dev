@@ -31,7 +31,7 @@ class Dog implements Runnable{
 	}
 }
 
-class SyncWithTwoObject{
+class TwoDogWithBiryani{
 	public static void main(String... s){
 		Biryani b = new Biryani();
 		Dog d1 = new Dog(b,"First Dog");
