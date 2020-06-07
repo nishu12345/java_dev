@@ -8,14 +8,18 @@
 
 class MyThread implements Runnable{
 	public void run(){
-		for(int i = 0; i< 10000; i++)
-			System.out.println("I am lazy thread");
-		System.out.println("I am going into sleeping state");
+		
 		try{
-			Thread.sleep(2000);
+			for(int i = 0; i< 10000; i++){
+				System.out.println("I am lazy thread");
+				System.out.println("I am going into sleeping state");
+				Thread.sleep(2000);	
+			}
 		}catch(InterruptedException e){
 			System.out.println("I am interrupted");
 		}
+
+		System.out.println("Executing after interruption");
 	}
 }
 class ThreadInterrupt2{
