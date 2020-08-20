@@ -7,8 +7,8 @@
 <h3>#Literals</h3>
 <p>
 -integral literals  <br>
-  <&nbsp>-decimal literals <br>
-  <&nbsp>-octal literals <br>
-  <&nbsp>-hexadecimal literals <br>
+  &nbsp-decimal literals <br>
+  &nbsp-octal literals <br>
+  &nbsp-hexadecimal literals <br>
 -floating point literals  <br>
 </p>

@@ -7,8 +7,8 @@
 <h3>#Arrays</h3>
 <p>
 -Declaration, Creation and Initialization in single line  <br>
-  <&nbsp>-length of an array <br>
-  <&nbsp>-length of two dimensional arrays <br>
-  <&nbsp>-anonymous arrays <br>
-  <&nbsp>-array element assignment <br>
+  &nbsp-length of an array <br>
+  &nbsp-length of two dimensional arrays <br>
+  &nbsp-anonymous arrays <br>
+  &nbsp-array element assignment <br>
 </p>

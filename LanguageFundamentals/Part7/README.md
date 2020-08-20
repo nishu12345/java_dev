@@ -6,5 +6,5 @@
 <h3>#Arrays</h3>
 <p>
 -Array creation and assignment  <br>
-  <&nbsp>-multi dimensional arrays <br>
+  &nbsp-multi dimensional arrays <br>
 </p>

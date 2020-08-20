@@ -7,10 +7,10 @@
 <h3>#Literals</h3>
 <p>
 -char literals  <br>
-  <&nbsp>-single character within single quotes  <br>
-  <&nbsp>-integral literal assigned to char type variable  <br>
-  <&nbsp>-unicode representation of char literal <br>
-  <&nbsp>-escape character <br>
+  &nbsp-single character within single quotes  <br>
+  &nbsp-integral literal assigned to char type variable  <br>
+  &nbsp-unicode representation of char literal <br>
+  &nbsp-escape character <br>
 -binary literals(JDK 1.6) <br>
 </p>
 

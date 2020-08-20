@@ -7,6 +7,6 @@
 <h3>#Arrays</h3>
 <p>
 -Different ways of declaring an array <br>
-  <&nbsp>-multi dimensional array declarations
-  <&nbsp>-Class name for every arrays type <br>
+  &nbsp-multi dimensional array declarations
+  &nbsp-Class name for every arrays type <br>
 </p>
