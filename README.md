@@ -1,15 +1,19 @@
-# DurgaSoft Lecture
+<h1># DurgaSoft Lecture</h1>
 
-Java Durgasoft lectures from youtube.
+<h2>Java Durgasoft lectures from youtube.</h2>
 
-https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0
+<a>https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0</a>
 
-#Identifiers  <br>
+<h3>#Identifiers</h3>
+<p>
   -Valid Identifiers  <br>
+</p>
 
-#Keywords <br>
+<h3>#Keywords</h3>
+<p>
   -reserved keywords  <br>
   -unused keywords    <br>
+</p>
 
 #Data Types <br>
   -size of data types <br>
