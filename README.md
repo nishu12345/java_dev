@@ -49,7 +49,7 @@ https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part5
 </p>
 
-<h3>#Arrays | Part-6 | Part-7 | Part-8</h3>
+<h3>#Arrays | Part-6 | Part-7 | Part-8 | Part-9</h3>
 <p>
 -Different ways of declaring an array <br>
   &nbsp-multi dimensional array declarations
@@ -61,7 +61,9 @@ https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/
   &nbsp-length of two dimensional arrays <br>
   &nbsp-anonymous arrays <br>
   &nbsp-array element assignment <br>
+-Array Object Allocation
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part6
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part7
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part8
+https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part9
 </p>
