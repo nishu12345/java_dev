@@ -6,6 +6,6 @@
 
 <h3>#Arrays</h3>
 <p>
-#Variable Assignment <br>
-#Array Object Allocation
+-Variable Assignment <br>
+-Array Object Allocation
 </p>
