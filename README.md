@@ -68,9 +68,12 @@ https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part9
 </p>
 
-<h3>#Types Of Variables | Part-10</h3>
+<h3>#Types Of Variables | Part-10 | Part-11</h3>
 <p>
 -Instance Variables
 -Static Variables
+-Local Variables</br>
+-Comparison of different types of variables
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part10
+https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part11
 </p>
