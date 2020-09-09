@@ -70,10 +70,19 @@ https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/
 
 <h3>#Types Of Variables | Part-10 | Part-11</h3>
 <p>
--Instance Variables
--Static Variables
--Local Variables</br>
--Comparison of different types of variables
+-Instance Variables<br>
+-Static Variables<br>
+-Local Variables<br>
+-Comparison of different types of variables<br>
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part10
 https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part11
+</p>
+
+<h3>#Variable Length of Arguments Methods</h3>
+<p>
+-VarArgs Methods<br>
+-VarArgs Overloading<br>
+-VarArgs Ambiguity<br>
+-VarArgs Arrays<br>
+https://github.com/nishu12345/java_dev/tree/durgasoft_java/LanguageFundamentals/Part12
 </p>
