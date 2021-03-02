@@ -5,10 +5,10 @@ package week3.arrays_and_dynamic_arrays;
     Place the last element at it's correct position.
     Input  -> [1,2,3,6,8,15,20,14]
     Output -> [1,2,3,6,8,14,15,20]
+    Time Complexity - O(n)
 * */
 public class LastElementCorrectPosition {
     public static int[] sortLastElement(int[] input) {
-//        int[] arr = {1, 2, 3, 6, 8, 15, 20, 14};
         int length = input.length;
         for (int i = 0; i < length; i++) {
             if (input[i] > input[length - 1]) {
