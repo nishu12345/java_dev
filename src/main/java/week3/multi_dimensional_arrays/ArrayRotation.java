@@ -16,11 +16,11 @@ public class ArrayRotation {
 
     public static void main(String[] args) {
         int[][] arr = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-        int[][] transposedMatrix = transposeMatrix(arr);
-        for (int[] num : transposedMatrix) {
-            reverseArray(num, 0, num.length - 1);
+        transposeMatrix(arr);
+        for (int[] numArray : arr) {
+            reverseArray(numArray, 0, numArray.length - 1);
         }
-        for (int[] numArray : transposedMatrix) {
+        for (int[] numArray : arr) {
             for (int num : numArray) {
                 System.out.print(num + " ");
             }
