@@ -23,7 +23,38 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/arrays_an
 
 <h5>-Rotation Game</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/arrays_and_dynamic_arrays/RotationGame.java
-<h3>Multi Dimensional Arrays<br></h3>
+
+<h3>#Multi Dimensional Arrays<br></h3>
 https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week3/multi_dimensional_arrays
+
+<h5>-Anti Diagonal</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/AntiDiagonal.java
+
+<h5>-Array Rotation</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/ArrayRotation.java
+
+<h5>-Multi Dimensional Array Iteration</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/MultiDimensionalArrayIteration.java
+
+<h5>-Pascal Triangle</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/PascalTriangle.java
+
+<h5>-Rotate Matrix</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/RotateMatrix.java
+
+<h5>-Search In Sorted Rows And Columns</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SearchInSortedRowsAndColumns.java
+
+<h5>-Sorted Rows And Columns</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SortedRowsAndColumns.java
+
+<h5>-Sorted Zero One</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SortedZeroOne.java
+
+<h5>Spiral Order Matrix II</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SpiralOrderMatrixII.java
+
+<h5>Spiral Pattern Print</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SpiralPatternPrint.java
 
 <h3>#Introduction to Hashing<br></h3>
