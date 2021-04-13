@@ -58,3 +58,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dim
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SpiralPatternPrint.java
 
 <h3>#Introduction to Hashing<br></h3>
+
+<h5>Two Sum</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/TwoSum.java
