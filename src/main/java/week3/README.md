@@ -51,13 +51,13 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dim
 <h5>-Sorted Zero One</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SortedZeroOne.java
 
-<h5>Spiral Order Matrix II</h5>
+<h5>-Spiral Order Matrix II</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SpiralOrderMatrixII.java
 
-<h5>Spiral Pattern Print</h5>
+<h5>-Spiral Pattern Print</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dimensional_arrays/SpiralPatternPrint.java
 
 <h3>#Introduction to Hashing<br></h3>
 
-<h5>Two Sum</h5>
+<h5>-Two Sum</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/TwoSum.java
