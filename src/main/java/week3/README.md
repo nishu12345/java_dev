@@ -61,3 +61,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/multi_dim
 
 <h5>-Two Sum</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/TwoSum.java
+
+<h5>-Common Elements</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/CommonElements.java
+
+<h5>-Pairs With Given Xor</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/PairsWithGivenXor.java
