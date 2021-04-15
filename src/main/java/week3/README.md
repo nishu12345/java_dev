@@ -67,3 +67,12 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduct
 
 <h5>-Pairs With Given Xor</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/PairsWithGivenXor.java
+
+<h5>-Anagrams</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/Anagrams.java
+
+<h5>-Contiguous Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/ContiguousArray.java
+
+<h5>-Permutation of A in B</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week3/introduction_to_hashing/PermutationOfAInB.java
