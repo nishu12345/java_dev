@@ -20,3 +20,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Is Dictionary</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/IsDictionary.java
+
+<h5>-Perfect Cards</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/PerfectCards.java
