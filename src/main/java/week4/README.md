@@ -14,3 +14,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Longest Consecutive Sequence</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/LongestConsecutiveSequence.java
+
+<h5>-Change Date Format</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/ChangeDateFormat.java
+
+<h5>-Is Dictionary</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/IsDictionary.java
