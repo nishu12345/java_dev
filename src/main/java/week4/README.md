@@ -26,3 +26,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Colorful Number</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_hashing_2/ColorfulNumber.java
+
+<h3>#Introduction To Sorting</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week4/introduction_to_sorting
+
+<h5>-Noble Integer</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/NobleInteger.java
