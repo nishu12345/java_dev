@@ -32,3 +32,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week4/introduct
 
 <h5>-Noble Integer</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/NobleInteger.java
+
+<h5>-Kth Smallest Number</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/KthSmallest.java
