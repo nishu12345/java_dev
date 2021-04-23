@@ -38,3 +38,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Step Wise Selection Sort</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/StepWiseSelectionSort.java
+
+<h5>-Arithmetic Progression?</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/ArithmeticProgression.java
