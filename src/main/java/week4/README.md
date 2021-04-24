@@ -50,3 +50,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Minimum Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/MinimumDifference.java
+
+<h5>-Wave Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/WaveArray.java
