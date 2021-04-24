@@ -47,3 +47,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Element Removal</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/ElementsRemoval.java
+
+<h5>-Minimum Difference</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/MinimumDifference.java
