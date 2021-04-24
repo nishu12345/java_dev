@@ -53,3 +53,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduct
 
 <h5>-Wave Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/WaveArray.java
+
+<h5>-Unique Elements</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/introduction_to_sorting/UniqueElements.java
