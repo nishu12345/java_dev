@@ -65,6 +65,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 <h5>-Simple Reverse</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/SimpleReverse.java
 
+<h5>-String Rotation</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/StringRotation.java
+
 <h5>-To Lower</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/ToLower.java
 
