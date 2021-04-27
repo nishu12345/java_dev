@@ -70,3 +70,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 
 <h5>-To Upper</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/ToUpper.java
+
+<h5>-Is Alpha</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/IsAlpha.java
