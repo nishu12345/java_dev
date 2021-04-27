@@ -73,3 +73,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 
 <h5>-Is Alpha</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/IsAlpha.java
+
+<h5>-Is Alphabet</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/IsAlphabet.java
