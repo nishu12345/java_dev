@@ -85,3 +85,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 
 <h5>-Count Occurrence</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/CountOccurrence.java
+
+<h5>-Closet Palindrome</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/ClosestPalindrome.java
