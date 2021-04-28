@@ -79,3 +79,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 
 <h5>-Is Alphabet</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/IsAlphabet.java
+
+<h5>-Amazing SubArrays</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/AmazingSubArray.java
