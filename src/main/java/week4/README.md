@@ -94,3 +94,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 
 <h5>-String Operations</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/StringOperations.java
+
+<h5>-Lexicographically Largest</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/LexicographicallyLargest.java
