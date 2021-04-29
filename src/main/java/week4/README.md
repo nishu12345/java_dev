@@ -92,6 +92,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_ma
 <h5>-Closet Palindrome</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/ClosestPalindrome.java
 
+<h5>-Longest Common Prefix</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/LongestCommonPrefix.java
+
 <h5>-String Operations</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week4/string_manipulation/StringOperations.java
 
