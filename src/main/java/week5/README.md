@@ -6,3 +6,5 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week5/introduct
 <h5>-Find Fibonacci</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/introduction_to_recursion/FindFibonacci.java
 
+<h5>-Check Palindrome</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/introduction_to_recursion/CheckPalindrome.java
