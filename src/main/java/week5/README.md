@@ -11,3 +11,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/introduct
 
 <h5>-Sum Of Digits</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/introduction_to_recursion/SumOfDigits.java
+
+<h3>#More Problems On Recursion</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week5/more_problems_on_recursion
+
+<h5>-Subset2</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/more_problems_on_recursion/Subset2.java
