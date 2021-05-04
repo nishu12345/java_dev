@@ -20,3 +20,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/more_prob
 
 <h5>-Subset</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/more_problems_on_recursion/Subset.java
+
+<h5>-Print 1 to N</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week5/more_problems_on_recursion/Print1ToN.java

@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+../target/
+*.class
+D:\Development\mine\java_dev\scaler\target
