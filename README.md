@@ -14,7 +14,12 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week4
 <h4>-Introduction To Sorting</h4>
 <h4>-String Manipulation</h4>
 
-<h3>#Week4</h3>
+<h3>#Week5</h3>
 https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week5
 <h4>-Introduction To Recursion</h4>
 <h4>-More Problems On Recursion</h4>
+
+<h3>#Week6</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week6
+<h4>-Problem Solving 1</h4>
+<h4>-Problem Solving 2</h4>
