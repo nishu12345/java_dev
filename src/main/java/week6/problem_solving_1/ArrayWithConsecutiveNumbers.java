@@ -17,7 +17,7 @@ public class ArrayWithConsecutiveNumbers {
     private static final Logger LOGGER = LoggerFactory.getLogger(ArrayWithConsecutiveNumbers.class);
 
     public static void main(String[] args) {
-        int isConsecutive = checkConsecutive(new int[]{1, 2, 3, 4, 5});
+        int isConsecutive = checkConsecutive(new int[]{1, 2, 3, 4, 5,6});
         LOGGER.info("Is given array have consecutive elements {}", isConsecutive);
     }
 
