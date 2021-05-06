@@ -29,3 +29,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Chocolate Shops</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/ChocolateShops.java
+
+<h5>-Element Removal</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/ElementRemoval.java
