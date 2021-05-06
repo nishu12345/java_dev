@@ -17,3 +17,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Square Granites</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/SquareGranites.java
+
+<h5>-Pairs With Sum Present</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/PairsWithSumPresent.java
