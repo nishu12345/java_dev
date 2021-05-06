@@ -11,3 +11,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Sum Of Adjacent Number Is Always Even</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/SumOfAdjacentNumberEven.java
+
+<h5>-Even Partition</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/EvenPartition.java
