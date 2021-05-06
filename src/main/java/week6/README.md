@@ -20,3 +20,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Pairs With Sum Present</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/PairsWithSumPresent.java
+
+<h5>-Alternate Positive And Negative Elements</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/AlternatePositiveAndNegative.java
