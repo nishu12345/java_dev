@@ -23,3 +23,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Alternate Positive And Negative Elements</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/AlternatePositiveAndNegative.java
+
+<h5>-Book Lover</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/BookLover.java
