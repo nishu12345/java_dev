@@ -1,7 +1,7 @@
 # Week6
 
 <h3>#Problem Solving 1</h3>
-https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week5/problem_solving_1
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week6/problem_solving_1
 
 <h5>-Array With Consecutive Numbers</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/ArrayWithConsecutiveNumbers.java
@@ -35,3 +35,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Pairs With Given Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_1/PairsWithGivenDifference.java
+
+<h3>#Problem Solving 2</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week6/problem_solving_2
+
+<h5>-Contiguous Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/ContiguousArray.java
