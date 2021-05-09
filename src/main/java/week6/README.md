@@ -44,3 +44,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 
 <h5>-Sum The Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/SumTheDifference.java
+
+<h5>-Sort The Unsorted Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/SortTheUnsortedArray.java
+
+
