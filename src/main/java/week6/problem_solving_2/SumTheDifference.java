@@ -42,4 +42,13 @@ public class SumTheDifference {
         }
         return (int) ((maxSum - minSum) % 1000000007);
     }
+
+    public static int calPower(int input){
+        int output = 1;
+        for(int i = 1; i <= input; ++i){
+            output = output*2;
+            output%=1000000007;
+        }
+        return output;
+    }
 }
