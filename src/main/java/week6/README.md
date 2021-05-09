@@ -42,6 +42,9 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week6/problem_s
 <h5>-Contiguous Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/ContiguousArray.java
 
+<h5>-Construct Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/ConstructArray.java
+
 <h5>-Sum The Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/SumTheDifference.java
 
