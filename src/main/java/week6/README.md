@@ -57,4 +57,7 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_s
 <h5>-Common Elements</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/CommonElements.java
 
+<h5>-First Missing Integer</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week6/problem_solving_2/FirstMissingInteger.java
+
 
