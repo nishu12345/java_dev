@@ -23,3 +23,9 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week5
 https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week6
 <h4>-Problem Solving 1</h4>
 <h4>-Problem Solving 2</h4>
+
+<h3>#Week7</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week7
+<h4>-Basics Of Maths</h4>
+<h4>-Basics Of Maths 2</h4>
+<h4>-Problem Solving 3</h4>
