@@ -2,6 +2,18 @@ package week7.basics_of_maths;
 
 import java.util.ArrayList;
 
+/*
+    Rearrange a given array so that Arr[i] becomes Arr[Arr[i]] with O(1) extra space.
+    Input->
+        [3,2,0,1]
+    Output->
+        [1,0,3,2]
+    Explanation->
+        for i = 0, input[i] = 3, and input[3] = 1 sor input[0] = 1
+        for i = 1, input[i] = 2, and input[2] = 0 sor input[1] = 0
+        for i = 2, input[i] = 0, and input[0] = 3 sor input[2] = 3
+        for i = 3, input[i] = 1, and input[1] = 2 sor input[3] = 2
+*/
 public class RearrangeArray {
 
     public static void main(String[] args) {
