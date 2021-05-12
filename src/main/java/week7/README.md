@@ -18,3 +18,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of
 <h5>-Excel Column Tile</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/ExcelColumnTile.java
 
+<h5>-Reverse Integer</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/ReverseInteger.java
+
