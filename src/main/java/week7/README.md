@@ -14,3 +14,7 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of
 
 <h5>-Trailing Zero</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/TrailingZero.java
+
+<h5>-Excel Column Tile</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/ExcelColumnTile.java
+
