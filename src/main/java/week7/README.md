@@ -8,3 +8,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of
 
 <h5>-Rearrange Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/RearrangeArray.java
+
+<h5>-Palindrome Integer</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/PalindromeInteger.java
+
+<h5>-Trailing Zero</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/TrailingZero.java
