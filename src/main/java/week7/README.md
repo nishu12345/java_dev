@@ -32,3 +32,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week7/basic_mat
 
 <h5>-Pair Sum Divisible By M</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basic_math_2/PairSumDivisibleByM.java
+
+<h5>-Find Nth Magic Number</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basic_math_2/FindNthMagicNumber.java
