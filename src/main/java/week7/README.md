@@ -27,3 +27,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of
 <h5>-Reverse Integer</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basics_of_maths/ReverseInteger.java
 
+<h3>#Basics Math - 2</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week7/basic_math_2
+
+<h5>-Pair Sum Divisible By M</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basic_math_2/PairSumDivisibleByM.java
