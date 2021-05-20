@@ -44,3 +44,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week7/problem_s
 
 <h5>-Repeat And Missing Number Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/RepeatAndMissingNumberArray.java
+
+<h5>-Beggar Outside Temple</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/BeggarsOutsideTemple.java
