@@ -38,3 +38,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basic_mat
 
 <h5>-The Prime Game</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/basic_math_2/ThePrimeGame.java
+
+<h3>#Problem Solving 3</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week7/problem_solving_3
+
+<h5>-Repeat And Missing Number Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/RepeatAndMissingNumberArray.java
