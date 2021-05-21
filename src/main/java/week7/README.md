@@ -56,3 +56,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_s
 
 <h5>-Max Non-Negative Sub-Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/MaxNonNegativeSubArray.java
+
+<h5>-Special Subsequence AG</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/SpecialSubsequenceAG.java
