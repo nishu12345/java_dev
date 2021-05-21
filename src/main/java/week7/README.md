@@ -53,3 +53,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_s
 
 <h5>-Closet Min Max</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/ClosetMinMax.java
+
+<h5>-Max Non-Negative Sub-Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week7/problem_solving_3/MaxNonNegativeSubArray.java
