@@ -5,3 +5,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week8/problem_s
 
 <h5>-Maximum Absolute Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/MaximumAbsoluteDifference.java
+
+<h5>-Minimum Absolute Difference</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/MinimumAbsoluteDifference.java
