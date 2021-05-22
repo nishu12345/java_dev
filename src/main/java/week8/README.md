@@ -8,3 +8,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_s
 
 <h5>-Minimum Absolute Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/MinimumAbsoluteDifference.java
+
+<h5>-Majority Elements</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/MajorityElements.java
