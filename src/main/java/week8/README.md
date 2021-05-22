@@ -11,3 +11,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_s
 
 <h5>-Majority Elements</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/MajorityElements.java
+
+<h5>-Column Sum</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/ColumnSum.java
