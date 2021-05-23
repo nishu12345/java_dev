@@ -18,5 +18,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_s
 <h5>-Column Sum</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/ColumnSum.java
 
-<h5>-Column Sum</h5>
-https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/ColumnSum.java
+<h5>-Find Determinant</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/FindDeterminant.java
+
+<h5>-Game Of Bottles</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/GameOfBottles.java
