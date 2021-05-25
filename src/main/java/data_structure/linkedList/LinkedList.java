@@ -24,7 +24,7 @@ public class LinkedList {
 
     public boolean isPresent(int data) {
         Node node = head;
-        while (node.next != null) {
+        while (node != null) {
             if (node.data == data)
                 return true;
             node = node.next;
@@ -34,7 +34,7 @@ public class LinkedList {
 
     public void delete(int data) {
         Node node = head;
-        while (node.next != null) {
+        while (node != null) {
             if (head.data == data) {
                 head = head.next;
                 break;
@@ -51,7 +51,7 @@ public class LinkedList {
     public void deleteIndex(int index) {
         Node node = head;
         int count = 0;
-        while (node.next != null) {
+        while (node != null) {
             count++;
             if (index == 0) {
                 head = head.next;
@@ -68,7 +68,7 @@ public class LinkedList {
     public int size() {
         int count = 0;
         Node node = head;
-        while (node.next != null) {
+        while (node!= null) {
             count++;
             node = node.next;
         }
@@ -78,7 +78,7 @@ public class LinkedList {
     public int getByIndex(int index) {
         Node node = head;
         int count = 0;
-        while (node.next != null) {
+        while (node!= null) {
             if (count == index)
                 return node.data;
             count++;
