@@ -29,3 +29,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_s
 
 <h5>-N/3 Repeat Numbers</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_4/NBy3RepeatNumbers.java
+
+<h3>#Problem Solving 4</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week8/problem_solving_6
+
+<h5>-Sub Matrix Sum Queries</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/SubMatrixSumQueries.java
