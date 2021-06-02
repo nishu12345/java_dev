@@ -1,10 +1,18 @@
-import data_structure.linkedList.LinkedList;
+import java.util.ArrayList;
 
 class Test {
     public static void main(String[] args) {
+        ArrayList<Integer> temp = new ArrayList<>();
+        temp.add(1);
+        temp.add(3);
+        temp.add(4);
+        temp.add(2);
+        temp.remove(Integer.valueOf(2));
+        for(int num : temp)
+            System.out.println(num);
+
 
     }
-
 
     int findMaxSumContagiousArr(int arr[]) {
 /*
