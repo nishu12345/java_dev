@@ -39,3 +39,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_s
 <h5>-Intersection Of Sorted Arrays</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/IntersectionOfSortedArrays.java
 
+<h5>-Remove Duplicate From Sorted Array 2</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/RemoveDuplicateFromSortedArray2.java
+
+<h5>-Merged Two Sorted Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/MergeTwoSortedArrays.java
+
