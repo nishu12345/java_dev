@@ -56,8 +56,7 @@ public class LinkedList {
             if (index == 0) {
                 head = head.next;
                 break;
-            }
-            else if (count == index){
+            } else if (count == index) {
                 node.next = node.next.next;
                 break;
             }
@@ -65,10 +64,28 @@ public class LinkedList {
         }
     }
 
+    public void deleteIndexBetter(int index) {
+        Node node = head;
+        int count = 0;
+        while (node != null) {
+            if (count == index) {
+                node.data = node.next.data;
+                node.next = node.next.next;
+                break;
+            }else if(node.next.next == null){
+                /*Special check for last index deletion*/
+                node.next = null;
+                break;
+            }
+            count++;
+            node = node.next;
+        }
+    }
+
     public int size() {
         int count = 0;
         Node node = head;
-        while (node!= null) {
+        while (node != null) {
             count++;
             node = node.next;
         }
@@ -78,7 +95,7 @@ public class LinkedList {
     public int getByIndex(int index) {
         Node node = head;
         int count = 0;
-        while (node!= null) {
+        while (node != null) {
             if (count == index)
                 return node.data;
             count++;
@@ -87,32 +104,32 @@ public class LinkedList {
         return -1;
     }
 
-    public void insertAtStart(int data){
+    public void insertAtStart(int data) {
         Node newNode = new Node(5);
         newNode.next = head;
         head = newNode;
     }
 
-    public void insertAtEnd(int data){
+    public void insertAtEnd(int data) {
         Node node = head;
-        while(node.next!=null)
+        while (node.next != null)
             node = node.next;
         Node newNode = new Node(data);
         node.next = newNode;
     }
 
-    public void insertAtGivenIndex(int index,int data){
+    public void insertAtGivenIndex(int index, int data) {
         Node node = head;
         int count = 0;
-        while(node.next!=null){
+        while (node.next != null) {
             count++;
-            if(index==0){
+            if (index == 0) {
                 Node newNode = new Node(data);
                 newNode.next = head;
                 head = newNode;
                 break;
-            }else if(count == index){
-                Node newNode =  new Node(data);
+            } else if (count == index) {
+                Node newNode = new Node(data);
                 newNode.next = node.next;
                 node.next = newNode;
                 break;

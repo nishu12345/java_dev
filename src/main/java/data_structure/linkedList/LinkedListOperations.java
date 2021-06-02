@@ -29,5 +29,7 @@ public class LinkedListOperations {
         linkedList.insertAtGivenIndex(2,15);
         linkedList.printList();
 
+        linkedList.deleteIndexBetter(2);
+        linkedList.printList();
     }
 }
