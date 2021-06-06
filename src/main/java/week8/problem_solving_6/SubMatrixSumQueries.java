@@ -24,7 +24,9 @@ package week8.problem_solving_6;
 */
 public class SubMatrixSumQueries {
     public static void main(String[] args) {
-        int[] querySum = giveQuerySum(new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, new int[]{1, 2}, new int[]{1, 2}, new int[]{2, 3}, new int[]{2, 3});
+//        int[] querySum = giveQuerySum(new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, new int[]{1, 2}, new int[]{1, 2}, new int[]{2, 3}, new int[]{2, 3});
+        int[] querySum = giveQuerySum(new int[][]{{5,17,100,11}, {0,0,2,8}}, new int[]{1, 1}, new int[]{1, 4}, new int[]{2, 2}, new int[]{2, 4});
+
         for (int num : querySum)
             System.out.print(num + " ");
     }

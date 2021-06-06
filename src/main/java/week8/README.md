@@ -36,6 +36,9 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week8/problem_s
 <h5>-Sub Matrix Sum Queries</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/SubMatrixSumQueries.java
 
+<h5>-Sum Of All Sub Matrices</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/SumOfAllSubMatrices.java
+
 <h5>-Intersection Of Sorted Arrays</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week8/problem_solving_6/IntersectionOfSortedArrays.java
 
