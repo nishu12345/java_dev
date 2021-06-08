@@ -33,12 +33,12 @@ public class SubArrayOr {
     private static final Logger LOGGER = LoggerFactory.getLogger(SubArrayOr.class);
 
     public static void main(String[] args) {
-        int subArrayXor = calSubArrayXor(new int[]{1, 2, 3, 4, 5});
+        int subArrayXor = calSubArrayOr(new int[]{1, 2, 3, 4, 5});
         LOGGER.info("OR sum of all the sub-array in given input is {}", subArrayXor);
 
     }
 
-    public static int calSubArrayXor(int[] input) {
+    public static int calSubArrayOr(int[] input) {
         int output = 0;
         for (int i = 0; i < input.length; ++i) {
             int or = 0;
