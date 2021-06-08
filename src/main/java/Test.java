@@ -1,25 +1,60 @@
-import java.util.ArrayList;
-
 class Test {
-    public static void main(String[] args) {
-        ArrayList<Integer> temp = new ArrayList<>();
-        temp.add(1);
-        temp.add(3);
-        temp.add(4);
-        temp.add(2);
-        temp.remove(Integer.valueOf(2));
-        for(int num : temp)
-            System.out.println(num);
 
+    public static void main(String[] args) {
 
     }
+}
 
-    int findMaxSumContagiousArr(int arr[]) {
-/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*int findMaxSumContagiousArr(int arr[]) {
+ *//*
  {2, -1, -3, -3, 4, 2, 3, 4, -5};
 {-73, -1, -31, -1, -2}
 int[] input = {-2, -3, 4, -1, -2, 1, 5, -3};
-*/
+*//*
         int maxSum = Integer.MIN_VALUE;
         int currSum = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -29,5 +64,4 @@ int[] input = {-2, -3, 4, -1, -2, 1, 5, -3};
                 currSum = 0;
         }
         return maxSum;
-    }
-}
+    }*/
