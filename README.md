@@ -35,3 +35,10 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week8
 <h4>-Problem Solving 4</h4>
 <h4>-Problem Solving 5</h4>
 <h4>-Problem Solving 6</h4>
+
+<h3>#Week9</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week9
+<h4>-Problem Solving 7</h4>
+<h4>-Basics Of Storage</h4>
+<h4>-How Internet Works</h4>
+<h4>-Low Level Design - 101</h4>
