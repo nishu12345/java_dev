@@ -8,3 +8,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_s
 
 <h5>-Sub-Array OR</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/SubArrayOr.java
+
+<h5>-Single Number 2</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/SingleNumber2.java
+
+<h5>-Bulbs</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/Bulbs.java
