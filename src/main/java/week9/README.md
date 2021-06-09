@@ -14,3 +14,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_s
 
 <h5>-Bulbs</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/Bulbs.java
+
+<h5>-Find Duplicate Rows In Binary Matrix</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/DuplicateRowsInBinaryMatrix.java
