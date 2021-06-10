@@ -17,3 +17,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_s
 
 <h5>-Find Duplicate Rows In Binary Matrix</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/DuplicateRowsInBinaryMatrix.java
+
+<h5>-Kth Row of Pascal's Triangle</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/PascalTriangle.java
