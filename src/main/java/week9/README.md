@@ -23,3 +23,10 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_s
 
 <h5>-Kth Row of Pascal's Triangle</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/problem_solving_7/PascalTriangle.java
+
+<h3>#Basic of Storage</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week9/basic_of_storage
+
+<h5>-Simplify Directory Path</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week9/basic_of_storage/SimplifyDirectoryPath.java
+
