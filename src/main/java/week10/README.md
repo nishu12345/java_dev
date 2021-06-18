@@ -5,3 +5,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week10/timeAndS
 
 <h5>-Maximum Absolute Difference</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week10/timeAndSpacePlusArrays/MaximumAbsoluteDifference.java
+
+<h5>-Rain Water Trapped</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week10/timeAndSpacePlusArrays/RainWaterTrapped.java
