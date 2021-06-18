@@ -42,3 +42,9 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week9
 <h4>-Basics Of Storage</h4>
 <h4>-How Internet Works</h4>
 <h4>-Low Level Design - 101</h4>
+
+<h3>#Week10</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week10
+<h4>-Time & Space Complexity + 1D and 2D Arrays</h4>
+<h4>-Arrays and Maths</h4>
+<h4>-Maths 2</h4>
