@@ -14,3 +14,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week10/timeAndS
 
 <h5>-Add One To Number</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week10/timeAndSpacePlusArrays/AddOneToNumber.java
+
+<h5>-Max Non Negative Sub Array</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week10/timeAndSpacePlusArrays/MaxNonNegativeSubArray.java
