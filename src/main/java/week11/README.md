@@ -6,3 +6,6 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11/bitManip
 <h5>-Min XOR Value</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManipulation/MinXORValue.java
 
+<h5>-Single Number</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManipulation/SingleNumber.java
+
