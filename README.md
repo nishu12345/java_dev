@@ -48,3 +48,9 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week10
 <h4>-Time & Space Complexity + 1D and 2D Arrays</h4>
 <h4>-Arrays and Maths</h4>
 <h4>-Maths 2</h4>
+
+<h3>#Week11</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11
+<h4>-Bit Manipulation</h4>
+<h4>-Searching I</h4>
+<h4>-Searching II</h4>
