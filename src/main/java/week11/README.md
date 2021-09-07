@@ -9,3 +9,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManip
 <h5>-Single Number</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManipulation/SingleNumber.java
 
+<h5>-Different Bit Sum Pair Wise</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManipulation/BitSumPairWise.java
+
