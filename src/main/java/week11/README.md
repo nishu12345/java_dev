@@ -15,3 +15,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManip
 <h5>-Single Number III</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManipulation/SingleNumber3.java
 
+<h3>#Searching I</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11/searchingOne
+
+<h5>-BinarySearchOnRotatedArray</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/BinarySearchOnRotatedArray.java
