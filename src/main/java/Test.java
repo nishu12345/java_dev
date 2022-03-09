@@ -1,7 +1,17 @@
 class Test {
 
     public static void main(String[] args) {
-
+        int a = 1;
+        a = a<<32;
+        System.out.println(Integer.toBinaryString(a));
+//        System.out.println(Integer.toBinaryString(a<<31));
+//        System.out.println(a<<31);
+//        System.out.println(Integer.MAX_VALUE);
+        System.out.println(a);
+        int temp = 21;
+        String s = Integer.toBinaryString(temp);
+        int tempNew = Integer.parseInt(s);
+        System.out.println(tempNew);
     }
 }
 

@@ -23,3 +23,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchin
 
 <h5>-Find Peak Element</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/FindPeakElement.java
+
+<h5>-Single Element In SortedArray</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/SingleElementInSortedArray.java
