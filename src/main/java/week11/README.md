@@ -18,5 +18,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/bitManip
 <h3>#Searching I</h3>
 https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11/searchingOne
 
-<h5>-BinarySearchOnRotatedArray</h5>
+<h5>-Binary Search On Rotated Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/BinarySearchOnRotatedArray.java
+
+<h5>-Find Peak Element</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/FindPeakElement.java
