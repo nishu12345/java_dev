@@ -32,3 +32,6 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchin
 
 <h5>-Matrix Search</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/MatrixSearch.java
+
+<h5>-Maximum Height StairCase</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/MaximumHeightOfStaircase.java
