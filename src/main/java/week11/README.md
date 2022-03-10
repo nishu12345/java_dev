@@ -27,5 +27,8 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchin
 <h5>-Binary Search On Rotated Array</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/BinarySearchOnRotatedArray.java
 
-<h5>-SortedInsertPosition</h5>
+<h5>-Sorted Insert Position</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/SortedInsertPosition.java
+
+<h5>-Matrix Search</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/MatrixSearch.java
