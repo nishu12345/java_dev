@@ -14,25 +14,25 @@ public class BinarySearchOnRotatedArray {
 
     public static void main(String[] args) {
         int[] input = {18,21,25,10,12,15};
+//        int[] input = {1,2,3,4,5,6,7,0};
         int elementToFind = 10;
         int partitionIndex = getPartitionIndex(input);
-        int searchedElementIndex = getSearchedElementIndex(input, 0, partitionIndex - 1, elementToFind);
+        int searchedElementIndex = getSearchedElementIndex(input, 0, partitionIndex, elementToFind);
         if(searchedElementIndex==-1)
-            searchedElementIndex= getSearchedElementIndex(input,partitionIndex,input.length-1,elementToFind);
+            searchedElementIndex= getSearchedElementIndex(input,partitionIndex+1,input.length-1,elementToFind);
         LOGGER.info("Index of element {} in given input array is {} ",elementToFind,searchedElementIndex);
 
     }
 
     public static int getPartitionIndex(int[] input){
         int start = 0,mid = -1, end = input.length-1;
-
         while(start<=end){
             mid = start + ((end-start)/2);
-            if(mid==0 || (input[mid] < input[mid-1]))
+            if(mid!=input.length-1 && input[mid]>input[mid+1])
                 return mid;
-            else if(input[start]>input[mid])
-                end = mid;
-            else start = mid;
+            else if(input[mid]>input[start])
+                start = mid+1;
+            else end = mid-1;
         }
      return mid;
     }
