@@ -38,3 +38,9 @@ https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchin
 
 <h5>-Maximum Height StairCase</h5>
 https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingOne/MaximumHeightOfStaircase.java
+
+<h3>#Searching II</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11/searchingTwo
+
+<h5>-Aggressive Cows</h5>
+https://github.com/nishu12345/java_dev/blob/scaler/src/main/java/week11/searchingTwo/AggressiveCows.java
