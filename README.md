@@ -54,3 +54,7 @@ https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week11
 <h4>-Bit Manipulation</h4>
 <h4>-Searching I</h4>
 <h4>-Searching II</h4>
+
+<h3>#Week12</h3>
+https://github.com/nishu12345/java_dev/tree/scaler/src/main/java/week12
+<h4>-RECURSION & BACKTRACKING</h4>
